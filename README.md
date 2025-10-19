@@ -169,7 +169,7 @@ Oussama HAMZA
 
 ## Contact
 
-- GitHub: [[@yourusername](https://github.com/yourusername)](https://github.com/HamzaOussama)
+- GitHub: https://github.com/HamzaOussama
 - Email: oussamahamza.1002@gmail.com
 
 ---
